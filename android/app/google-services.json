@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444500751266",
+    "firebase_url": "https://dbce-hackaton.firebaseio.com",
+    "project_id": "dbce-hackaton",
+    "storage_bucket": "dbce-hackaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444500751266:android:b2b472805a4cbf7be478fb",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444500751266-viujk06i4eqhe410uf1tl85bftqa7t5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Pfy62dZhxovVrw1PXDWsXiDR17YeSt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444500751266-viujk06i4eqhe410uf1tl85bftqa7t5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
